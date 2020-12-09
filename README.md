@@ -1,6 +1,6 @@
 # python-api-challenge
 
-I created a Python script to visualize teh weather of 500+ cities across the globe of varying distances from the equator.
+I created a Python script to visualize the weather of 500+ cities across the globe of varying distances from the equator.
 
 Part I = WeatherPy
 
@@ -16,7 +16,7 @@ My first objective is to build a series of scatter plots to showcase the followi
 My second objective is to run linear regression on each relationship, only this time separatiniig them into Norhtern Hemisphere (greater than or equal to 0 degrees latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
     Northern/Southern Hemisphere - Temperature (F) vs. Latitude
-    NOrthern/Southern Hemisphere - Humidity (%) vs. Latitude
+    Northern/Southern Hemisphere - Humidity (%) vs. Latitude
     Northern/Southern Hemisphere - Cloudiness (%) vs. Latitude
     Northern/Southern Hemisphere - Wind Speed (mph) vs. Latitude
     
